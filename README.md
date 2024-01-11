@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello, World! My name is Giacomo 👋
 
-<!--
-**xbit18/xbit18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student exploring coding from Italy. On this journey for 8 years, I'm studying Advanced Software Engineering at the University of L'Aquila.
 
-Here are some ideas to get you started:
+### 🎨 Coding with Creativity
+- I love using code to bring new ideas to life, always making sure to pay close attention to the small details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Versatile Learner
+- Currently experimenting with languages like Python, Java, Swift, and Kotlin.
+- Exploring web technologies and frameworks, always pushing the limits in my projects.
+
+### 🌱 Open to New Opportunities
+- A versatile learner eager for new challenges and opportunities to expand my skills.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/giacomo-sfratato).
+
+Feel free to take a look at my past projects!
