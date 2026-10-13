@@ -1,16 +1,13 @@
-## Hello, World! My name is Giacomo 👋
+## Hey, I'm Giacomo! 👋
 
-I'm a Computer Science student exploring coding from Italy. On this journey for 8 years, I'm studying Advanced Software Engineering at the University of L'Aquila.
+I'm a **Frontend Developer** from Italy 🇮🇹, passionate about technology, open source, and building things that make life easier.
 
-### 🎨 Coding with Creativity
-- I love using code to bring new ideas to life, always making sure to pay close attention to the small details.
+💻 I mainly work with **Angular, TypeScript, and RxJS**, developing modern, data-driven web applications.
 
-### 💻 Versatile Learner
-- Currently experimenting with languages like Python, Java, Swift, and Kotlin.
-- Exploring web technologies and frameworks, always pushing the limits in my projects.
+🛠️ In my free time, I enjoy experimenting with **Docker, Linux, self-hosting, and automation**, as well as building and contributing to open-source projects.
 
-### 🌱 Open to New Opportunities
-- A versatile learner eager for new challenges and opportunities to expand my skills.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/giacomo-sfratato).
+🚀 I enjoy turning ideas into practical tools and exploring new technologies along the way.
 
-Feel free to take a look at my past projects!
+⚙️ I care about clean code (sometimes), great user experiences, and finding creative solutions to everyday problems.
+
+Always curious, always learning, and occasionally breaking things just to figure out how they work.
